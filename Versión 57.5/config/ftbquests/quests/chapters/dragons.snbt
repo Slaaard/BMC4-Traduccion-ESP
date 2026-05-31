@@ -21,18 +21,12 @@
 			]
 			dependency_requirement: "one_completed"
 			description: [
-				"To hatch a &5dragon egg&r, simply place the &5dragon egg&r anywhere and then click on it. The chunk that the &5dragon egg&r is placed in will need to stay loaded for it to hatch. The hatching process takes a few minutes. Make sure you have enough room for it to hatch safely, so the resulting &4dragon&r does not suffocate in a wall."
-				""
-				"Once a &5dragon egg&r has hatched, a &cbaby dragon&r will spawn! You can tame them using any of the fish listed in the &9Task&r section of this quest."
-				""
-				"You can also speed up the time it takes for them to grow up into an adult by feeding the baby more &3fish&r."
-				""
-				"Once the &4dragon&r has fully matured, you can make it rideable by equipping a &esaddle&r onto the &4dragon&r."
-				""
-				"While riding, you can hold &bSpace&r to ascend, &bLeft Ctrl&r to descend, and press &bK&r to change your dragons flying behavior."
-				""
-				"To heal an injured &4dragon&r, simply feed it any of the meats listed in the second task in the &9Task&r section of this quest."
-			]
+				"Para eclosionar un &5huevo de dragón&r, simplemente coloca el &5huevo de dragón&r en cualquier lugar y luego haz clic sobre él. El chunk donde se coloque el &5huevo de dragón&r deberá permanecer cargado para que eclosione. El proceso de eclosión tarda unos minutos. Asegúrate de tener suficiente espacio para que eclosione de forma segura, para que el resultante &4dragón&r no se asfixie en una pared."				""
+				"Una vez que un &5huevo de dragón&r ha eclosionado, ¡un &cbebé dragón&r aparecerá! Puedes domesticarlos usando cualquiera de los peces listados en la sección &9Tarea&r de esta misión."				""
+				"También puedes acelerar la hora que tardan en crecer hasta ser adultos alimentando al bebé con más &3pez&r."				""
+				"Una vez que el &4Dragón&r haya madurado por completo, puedes hacerlo montable equipando una &eMontura&r sobre el &4Dragón&r."				""
+				"Mientras montas, puedes mantener &bEspacio&r para ascender, &bIzquierda Control&r para descender, y pulsa &bK&r para cambiar el comportamiento de vuelo de tus dragones."				""
+				"Para curar a un &4dragón&r herido, simplemente aliméntalo con cualquiera de las carnes enumeradas en la segunda tarea de la sección &9Tarea&r de esta misión."			]
 			icon: "minecraft:saddle"
 			id: "40D9D288C20EBEAA"
 			rewards: [{
@@ -44,8 +38,7 @@
 			}]
 			shape: "pentagon"
 			size: 1.3d
-			subtitle: "Read my description!"
-			tasks: [
+			subtitle: "¡Lee mi descripción!"			tasks: [
 				{
 					id: "7AF4145BA6A018FF"
 					item: {
@@ -55,8 +48,7 @@
 							value: "minecraft:fishes"
 						}
 					}
-					title: "Any #minecraft:fishes"
-					type: "item"
+					title: "Cualquiera de los peces de Minecraft"					type: "item"
 				}
 				{
 					id: "1211B16C44A5B6BD"
@@ -67,12 +59,10 @@
 							value: "forge:food/meat"
 						}
 					}
-					title: "Any #forge:food/meat"
-					type: "item"
+					title: "Cualquiera Forja:comida/carne"					type: "item"
 				}
 			]
-			title: "&l&6Dragon Care 101"
-			x: 0.0d
+			title: "&l&6Cuidado del Dragón 101"			x: 0.0d
 			y: -0.65d
 		}
 		{
@@ -83,8 +73,7 @@
 				table_id: 3608342425435793425L
 				type: "random"
 			}]
-			subtitle: "Flies 40 percent faster than other dragons. Found in underground &9dungeon chests."
-			tasks: [{
+			subtitle: "Vuela un 40 por ciento más rápido que otros dragones. Encontrado en cofres de mazmorra subterráneos &9."			tasks: [{
 				id: "7002CDC0A051F3F5"
 				item: {
 					Count: 1
@@ -99,8 +88,7 @@
 				match_nbt: true
 				type: "item"
 			}]
-			title: "Obtain an &f&lAether Dragon Egg"
-			x: 0.0d
+			title: "Obtén un &f&lHuevo de Dragón del Aether"			x: 0.0d
 			y: -2.5d
 		}
 		{
@@ -111,8 +99,7 @@
 				table_id: 3608342425435793425L
 				type: "random"
 			}]
-			subtitle: "Has the special trait of having more health than other dragons. Obtainable by defeating the &8&lEnder Dragon&r."
-			tasks: [{
+			subtitle: "Posee la característica especial de tener más salud que otros dragones. Obtenible al derrotar al &8&lEnderdragón&r."			tasks: [{
 				id: "7417413C9F99AC12"
 				item: {
 					Count: 1
@@ -127,8 +114,7 @@
 				match_nbt: true
 				type: "item"
 			}]
-			title: "Obtain an &8End Dragon Egg"
-			x: -2.5d
+			title: "Obtén un &8Huevo de Dragón del End"			x: -2.5d
 			y: -1.0d
 		}
 		{
@@ -139,8 +125,7 @@
 				table_id: 3608342425435793425L
 				type: "random"
 			}]
-			subtitle: "This dragon has the special trait of being resistant to fire and creating fire on nearby flammable blocks. Has a chance of spawning in &6Desert Pyramids&r."
-			tasks: [{
+			subtitle: "Este dragón tiene la característica especial de ser resistente al fuego y de crear fuego en bloques inflamables cercanos. Tiene una probabilidad de generarse en &6Pirámides Desérticas&r."			tasks: [{
 				id: "44CF69BC139C43C2"
 				item: {
 					Count: 1
@@ -155,8 +140,7 @@
 				match_nbt: true
 				type: "item"
 			}]
-			title: "Obtain a &4Fire Dragon Egg"
-			x: -2.5d
+			title: "Obtén un &4Huevo de Dragón de Fuego"			x: -2.5d
 			y: 0.0d
 		}
 		{
@@ -167,8 +151,7 @@
 				table_id: 3608342425435793425L
 				type: "random"
 			}]
-			subtitle: "Creates the bonemeal effect on surrounding plants and grass as it walks. Can be found in &2Jungle Temples."
-			tasks: [{
+			subtitle: "Crea efectos de hueso en las plantas y la hierba circundantes mientras camina. Puede ser encontrado en &2Templos de Jungla."			tasks: [{
 				id: "156C28206C2DCB1D"
 				item: {
 					Count: 1
@@ -183,8 +166,7 @@
 				match_nbt: true
 				type: "item"
 			}]
-			title: "Obtain a &aForest Dragon Egg"
-			x: 2.5d
+			title: "Obtén un &aHuevo de Dragón del Bosque"			x: 2.5d
 			y: -2.0d
 		}
 		{
@@ -195,8 +177,7 @@
 				table_id: 3608342425435793425L
 				type: "random"
 			}]
-			subtitle: "Withers nearby plants and blocks as it walks. Found in &4Abandoned Mineshafts&r and &6Woodland Mansions&r.  "
-			tasks: [{
+			subtitle: "Withers planta y bloques a su paso. Encontrado en &4Minas Abandonadas&r y &6Mansiones del Bosque&r."			tasks: [{
 				id: "6571AF068371ED30"
 				item: {
 					Count: 1
@@ -211,8 +192,7 @@
 				match_nbt: true
 				type: "item"
 			}]
-			title: "Obtain a &fGhost Dragon Egg"
-			x: 0.0d
+			title: "Obtén un &fHuevo de Fantasma Dragón"			x: 0.0d
 			y: 1.0d
 		}
 		{
@@ -223,8 +203,7 @@
 				table_id: 3608342425435793425L
 				type: "random"
 			}]
-			subtitle: "Creates frosted ice in its path and leaves a trail of snow in cold biomes. Found in &fIgloo chests&r."
-			tasks: [{
+			subtitle: "Crea rehielo en su camino y deja un rastro de capa de nieve en biomas fríos. Encontrado en &fcofres de iglú&r."			tasks: [{
 				id: "46BAF19A130D36F0"
 				item: {
 					Count: 1
@@ -239,8 +218,7 @@
 				match_nbt: true
 				type: "item"
 			}]
-			title: "Obtain an &f&lIce Dragon Egg"
-			x: 2.5d
+			title: "Obtén un &f&lHuevo de Dragón de Hielo"			x: 2.5d
 			y: 0.0d
 		}
 		{
@@ -261,8 +239,7 @@
 				table_id: 3608342425435793425L
 				type: "random"
 			}]
-			subtitle: "This dragon has more armor than other dragons, meaning it will take less damage per hit. Has a chance of spawning in &4Bastion Treasure&r."
-			tasks: [{
+			subtitle: "Este dragón tiene más armadura que otros dragones, lo que significa que recibirá menos daño por golpe. Tiene una probabilidad de generarse en &4"			tasks: [{
 				id: "70D97F68ED0BA17B"
 				item: {
 					Count: 1
@@ -277,8 +254,7 @@
 				match_nbt: true
 				type: "item"
 			}]
-			title: "Obtain a &6Nether Dragon Egg"
-			x: -2.5d
+			title: "Obtén un &6Huevo de Dragón del Nether"			x: -2.5d
 			y: -2.0d
 		}
 		{
@@ -289,8 +265,7 @@
 				table_id: 3608342425435793425L
 				type: "random"
 			}]
-			subtitle: "Hydrates farmland, soaks sponges, extinguishes fires, and transforms blocks like magma blocks and copper as it walks. Found in &1Buried Treasure&r."
-			tasks: [{
+			subtitle: "Hidrata la tierra de cultivo, empapa las esponjas, extingue los fuegos y transforma los bloques como los bloques de magma y el cobre al caminar. Encontrado en &1Tesoro Enterrado&r."			tasks: [{
 				id: "3EFB164B7071CCB8"
 				item: {
 					Count: 1
@@ -305,10 +280,8 @@
 				match_nbt: true
 				type: "item"
 			}]
-			title: "Obtain a &bWater Dragon Egg"
-			x: 2.5d
+			title: "Obtén un &bHuevo de Dragón de Agua"			x: 2.5d
 			y: -1.0d
 		}
 	]
-	title: " &4Dragons"
-}
+	title: "&4Dragones"}

@@ -18,15 +18,13 @@
 			}]
 			shape: "diamond"
 			size: 2.0d
-			subtitle: "Found underground in the &aOverworld&r."
-			tasks: [{
+			subtitle: "Encontrado subterráneo en el &aOverworld&r."			tasks: [{
 				entity: "minecraft:warden"
 				id: "6F1B2A4E5956B83E"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat a &3Warden"
-			x: 7.0d
+			title: "Derrota a un &3Warden"			x: 7.0d
 			y: 4.0d
 		}
 		{
@@ -38,8 +36,7 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Used to negate the darkness in &8&lThe Otherside."
-			tasks: [{
+			subtitle: "Utilizado para negar la oscuridad en &8&lOtro Lado."			tasks: [{
 				id: "42CA7AAF304767E7"
 				item: {
 					Count: 1
@@ -50,8 +47,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft a &9Warden Helmet"
-			x: 5.0d
+			title: "Craftea un &9Casco de Warden"			x: 5.0d
 			y: 4.0d
 		}
 		{
@@ -62,16 +58,13 @@
 				item: "deeperdarker:ancient_vase"
 				type: "item"
 			}]
-			subtitle: "Before lighting the portal, you must first remove all &3Sculk Veins &rfrom the inner frame. After the frame is cleared, you can right click it with the &8Heart of The Deep &rthat you got earlier from killing The Warden."
-			tasks: [{
+			subtitle: "Antes de iluminar el Portal, debes primero eliminar todos &3Venas de sculk &rdel marco interior. Después de que el marco esté despejado, puedes hacer clic derecho sobre él con el &8Corazón de las Profundidades &rque obtuviste antes al matar al Warden."			tasks: [{
 				dimension: "deeperdarker:otherside"
 				icon: "minecraft:reinforced_deepslate"
 				id: "474D2D76F2256297"
-				title: "Enter The Otherside"
-				type: "dimension"
+				title: "Entrar al Otro Lado"				type: "dimension"
 			}]
-			title: "Enter The &8&lOtherside"
-			x: 9.0d
+			title: "Entrar El &8&lOtro Lado"			x: 9.0d
 			y: 4.0d
 		}
 		{
@@ -82,17 +75,14 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Spawns in &cDeeplands&r and &dEchoing Forests&r"
-			tasks: [{
+			subtitle: "Aparece en las &cTierras Profundas&r y los &dBosques Resonantes&r"			tasks: [{
 				entity: "deeperdarker:shattered"
 				icon: "deeperdarker:soul_dust"
 				id: "5B9501581479A2EC"
-				title: "Kill a Shattered"
-				type: "kill"
+				title: "Mata a un Destrozado"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat a &3Shattered"
-			x: 8.0d
+			title: "Derrota a los &3Destrozado"			x: 8.0d
 			y: 5.5d
 		}
 		{
@@ -103,17 +93,14 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Rare chance of spawning after breaking an &8Ancient Vase&r."
-			tasks: [{
+			subtitle: "Rara posibilidad de generación de criaturas después de romper un &8Jarrón Antiguo&r."			tasks: [{
 				entity: "deeperdarker:stalker"
 				icon: "deeperdarker:soul_crystal"
 				id: "1D807C8DC05EF208"
-				title: "Kill a Stalker"
-				type: "kill"
+				title: "Mata a un Acechador"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat a &3Stalker"
-			x: 9.0d
+			title: "Derrota a los &3Acechador"			x: 9.0d
 			y: 5.5d
 		}
 		{
@@ -124,17 +111,14 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "found by stepping on &1Infested Sculk"
-			tasks: [{
+			subtitle: "Encontrado al pisar &1Sculk Infestado"			tasks: [{
 				entity: "deeperdarker:shriek_worm"
 				icon: "deeperdarker:sculk_bone"
 				id: "3D7BD985875AFF57"
-				title: "Kill a Shriek Worm"
-				type: "kill"
+				title: "Mata un Gusano Chillador"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat a &7Shriek Worm"
-			x: 10.0d
+			title: "Derrota a un &7Gusano Chillador"			x: 10.0d
 			y: 5.5d
 		}
 		{
@@ -146,8 +130,7 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Grants the wearer a permanent &3speed effect"
-			tasks: [{
+			subtitle: "Otorga al portador un efecto de velocidad permanente &3"			tasks: [{
 				id: "52CCA3E6CB2C3938"
 				item: {
 					Count: 1
@@ -158,8 +141,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft &3Warden Leggings"
-			x: 5.0d
+			title: "Craftear &3Grebas de Warden"			x: 5.0d
 			y: 2.5d
 		}
 		{
@@ -173,8 +155,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "An armored &6Elytra which allows you to boost without rockets."
-			tasks: [{
+			subtitle: "Unos &6Élitros blindados que te permiten impulsarte sin cohetes."			tasks: [{
 				id: "3857C667AA9E0809"
 				item: {
 					Count: 1
@@ -185,8 +166,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft the &1Soul Elytra"
-			x: 9.0d
+			title: "Craftea los &1Élitros de Alma"			x: 9.0d
 			y: 7.0d
 		}
 		{
@@ -197,8 +177,7 @@
 				type: "xp_levels"
 				xp_levels: 10
 			}]
-			subtitle: "Can be tamed with an enchanted &cNetherite Chestplate&r. When tamed, &2Sculk Snappers&r drop enchanted books, until they have dropped the limit of six books."
-			tasks: [{
+			subtitle: "Can puede ser domesticado con un &cPeto de netherita&r encantado. Cuando es domesticado, &2Mordedores de Sculk&r sueltan libros encantados, hasta"			tasks: [{
 				icon: {
 					Count: 1
 					id: "minecraft:netherite_chestplate"
@@ -212,10 +191,8 @@
 				to_observe: "deeperdarker:sculk_snapper"
 				type: "observation"
 			}]
-			title: "Find a &2Sculk Snapper"
-			x: 11.0d
+			title: "Encuentra un &2Mordedor de Sculk"			x: 11.0d
 			y: 4.0d
 		}
 	]
-	title: " &1&lThe Otherside"
-}
+	title: "&1&lEl Otro Lado"}

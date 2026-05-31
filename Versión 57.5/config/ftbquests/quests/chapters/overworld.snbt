@@ -25,15 +25,12 @@
 					type: "item"
 				}
 			]
-			subtitle: "Gatekeeper Houses can be found in most biomes"
-			tasks: [{
+			subtitle: "Las casas de Gatekeeper se pueden encontrar en la mayoría de los biomas"			tasks: [{
 				id: "08CA723FD16E3030"
 				item: "blue_skies:blue_journal"
-				title: "Obtain a Blue Journal from the Gatekeeper"
-				type: "item"
+				title: "Obtén un Diario Azul del Gatekeeper"				type: "item"
 			}]
-			title: "Obtain a &9Blue Journal &rfrom a Gatekeeper"
-			x: 13.0d
+			title: "Obtén un &9Diario Azul &rde un Gatekeeper"			x: 13.0d
 			y: -2.0d
 		}
 		{
@@ -44,14 +41,12 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Each &2backpack&r tier unlocks new perks, toggleable via the &8Wrench&r icon in the corner of the &2backpack&r menu."
-			tasks: [{
+			subtitle: "Cada nivel de &2mochila&r desbloquea nuevas ventajas, activables mediante el icono de &8Llave Inglesa&r en la esquina del menú de &2mochila&r."			tasks: [{
 				id: "263C5E51A8D6A63E"
 				item: "inmis:plated_backpack"
 				type: "item"
 			}]
-			title: "Craft an upgraded &2Backpack"
-			x: 15.0d
+			title: "Craftear una &2Mochila mejorada"			x: 15.0d
 			y: -2.0d
 		}
 		{
@@ -62,8 +57,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Found in Dark Oak Forests"
-			tasks: [{
+			subtitle: "Encontrado en Bosques de Roble Oscuro"			tasks: [{
 				entity: "conjurer_illager:conjurer"
 				icon: {
 					Count: 1
@@ -73,12 +67,10 @@
 					}
 				}
 				id: "10911C878598A90F"
-				title: "Kill the Conjurer"
-				type: "kill"
+				title: "Mata al Conjurador"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &8Conjurer"
-			x: 11.0d
+			title: "Derrota al &8Conjurador"			x: 11.0d
 			y: -2.0d
 		}
 		{
@@ -96,16 +88,13 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Raids are started by killing Illager Captains, the same way as normal"
-			tasks: [{
+			subtitle: "Las Invasiones se inician al matar a los Capitanes Illager, de la misma manera que lo normal"			tasks: [{
 				advancement: "minecraft:adventure/hero_of_the_village"
 				criterion: ""
 				id: "7362BF4629FAD929"
-				title: "Defend a Village"
-				type: "advancement"
+				title: "Defiende una Aldea"				type: "advancement"
 			}]
-			title: "Defend a Village from a &4Raid"
-			x: 15.0d
+			title: "Defiende una Aldea de una Invasión &4"			x: 15.0d
 			y: 2.0d
 		}
 		{
@@ -116,13 +105,11 @@
 				item: "conjurer_illager:throwable_ball"
 				type: "item"
 			}]
-			subtitle: "Found in &eIllusioner Towers&r"
-			tasks: [{
+			subtitle: "Encontrado en las Torres de los Ilusionistas &r"			tasks: [{
 				entity: "minecraft:illusioner"
 				icon: "illagerinvasion:illusionary_dust"
 				id: "39A27C60C2775BD5"
-				title: "Defeat the &cIllusioner"
-				type: "kill"
+				title: "Derrota al &cIlusionista"				type: "kill"
 				value: 1L
 			}]
 			x: 11.0d
@@ -138,17 +125,14 @@
 				type: "item"
 			}]
 			size: 1.0d
-			subtitle: "Found in the &6&lAncient Factories&r, which spawns in caves. Locate with an &6Eye of Mech"
-			tasks: [{
+			subtitle: "Encontrado en las &6&lFábricas Antiguas&r, que aparecen en cuevas. Localiza con un &6Ojo de la Mecánica"			tasks: [{
 				entity: "cataclysm:the_harbinger"
 				icon: "cataclysm:the_harbinger_spawn_egg"
 				id: "6C6A449FB595E875"
-				title: "Defeat the &4Harbringer"
-				type: "kill"
+				title: "Derrota al &4Harbringer"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &4Harbringer"
-			x: 11.0d
+			title: "Derrota al &4Harbringer"			x: 11.0d
 			y: 1.0d
 		}
 		{
@@ -161,8 +145,7 @@
 				type: "item"
 			}]
 			size: 1.5d
-			subtitle: "Breaking a log with an axe will destroy the entire tree attached. Sneaking while destroying a log will prevent this."
-			tasks: [{
+			subtitle: "Romper un tronco con una hacha destruirá todo el árbol adjunto. Agachate mientras destruyes tronco evitará esto."			tasks: [{
 				id: "0470194500CBE26C"
 				item: {
 					Count: 1
@@ -171,11 +154,9 @@
 						value: "minecraft:logs"
 					}
 				}
-				title: "Any #minecraft:logs"
-				type: "item"
+				title: "Cualquiera de los #minecraft:logs"				type: "item"
 			}]
-			title: "Obtain a &2Wooden Log"
-			x: 13.0d
+			title: "Obtén una &2Tronco de Madera"			x: 13.0d
 			y: 0.0d
 		}
 		{
@@ -188,17 +169,14 @@
 				type: "item"
 			}]
 			size: 1.0d
-			subtitle: "Found in the &9&lSunken City&r, which spawns in Ocean biomes. Locate with an &9Eye of Abyss"
-			tasks: [{
+			subtitle: "Encontrado en la &9&lCiudad Hundida&r, que aparece en biomas de Océano. Localiza con un &9Ojo del Abismo"			tasks: [{
 				entity: "cataclysm:the_leviathan"
 				icon: "cataclysm:the_baby_leviathan_bucket"
 				id: "0A7A8D8140025392"
-				title: "Defeat &dThe Leviathan"
-				type: "kill"
+				title: "Derrota &dEl Leviatán"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &dLeviathan"
-			x: 11.0d
+			title: "Derrota al &dLeviathan"			x: 11.0d
 			y: 2.0d
 		}
 		{
@@ -209,13 +187,11 @@
 				type: "xp_levels"
 				xp_levels: 10
 			}]
-			subtitle: "Spawns randomly underground in boss rooms"
-			tasks: [{
+			subtitle: "Aparece aleatoriamente subterráneo en las salas de jefes"			tasks: [{
 				entity: "mowziesmobs:ferrous_wroughtnaut"
 				icon: "mowziesmobs:wrought_helmet"
 				id: "3333928391216A43"
-				title: "Defeat the &7Ferrous Wroughtnaut"
-				type: "kill"
+				title: "Derrota al &7Ferrous Wroughtnaut"				type: "kill"
 				value: 1L
 			}]
 			x: 15.0d
@@ -229,8 +205,7 @@
 				item: "friendsandfoes:totem_of_freezing"
 				type: "item"
 			}]
-			subtitle: "Found in &fsnowy&r biomes"
-			tasks: [{
+			subtitle: "Encontrado en biomas &fsnowy&r"			tasks: [{
 				entity: "mowziesmobs:frostmaw"
 				icon: {
 					Count: 1
@@ -240,8 +215,7 @@
 					}
 				}
 				id: "648F394BA53947B6"
-				title: "Defeat the &bFrostmaw"
-				type: "kill"
+				title: "Derrota al &bFrostmaw"				type: "kill"
 				value: 1L
 			}]
 			x: 15.0d
@@ -264,13 +238,11 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Found upon his throne in &eSavanna &rbiomes"
-			tasks: [{
+			subtitle: "Encontrado en su trono en los biomas de &eSabana &r"			tasks: [{
 				entity: "mowziesmobs:umvuthi"
 				icon: "mowziesmobs:grant_suns_blessing"
 				id: "2498701E7715A09B"
-				title: "Defeat &eUmvuthi, the Sunbird"
-				type: "kill"
+				title: "Derrota &eUmvuthi, el Ave Solar"				type: "kill"
 				value: 1L
 			}]
 			x: 15.0d
@@ -290,14 +262,12 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Found by using a brush on Suspicious Sand in the Desert."
-			tasks: [{
+			subtitle: "Encontrado al usar un pincel en Arena sospechosa en el Desierto."			tasks: [{
 				id: "601A59E76485A542"
 				item: "cataclysm:necklace_of_the_desert"
 				type: "item"
 			}]
-			title: "Dig up a &eNecklace of the Desert"
-			x: 12.0d
+			title: "Excava un &eCollar del Desierto"			x: 12.0d
 			y: 2.0d
 		}
 		{
@@ -316,16 +286,14 @@
 					type: "random"
 				}
 			]
-			subtitle: "Found at the bottom of the &cCursed Pyramid&r, which spawns in deserts. Awaken the boss with the &eNecklace of the Desert&r. This boss is &lvery&r difficult and you will need to be properly prepared. Locate with an &eEye of Desert"
-			tasks: [{
+			subtitle: "Encontrado en el abajo de la &cPirámide Maldita&r, que aparece en los Desierto. Despierta al jefe con el &eCollar del Desierto&r. Este jefe es &lmuy&r difícil y necesitarás estar debidamente preparado. Localiza con un &eOjo del Desierto"			tasks: [{
 				entity: "cataclysm:ancient_remnant"
 				icon: "cataclysm:remnant_skull"
 				id: "3C1C4CE6E885E8EE"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat an &6Ancient Remnant"
-			x: 12.0d
+			title: "Derrota un &6Remanente Antiguo"			x: 12.0d
 			y: 3.5d
 		}
 		{
@@ -338,14 +306,12 @@
 				random_bonus: 6
 				type: "item"
 			}]
-			subtitle: "Obtained by mining spawners. The level of Fortune on your pickaxe affects how many fragments drop from a spawner."
-			tasks: [{
+			subtitle: "Obtenido al minar generadores. El nivel de Fortuna en tu pico afecta cuántos fragmentos caen de un generador."			tasks: [{
 				id: "23A051B83028FB3D"
 				item: "spawnersplus:spawner_fragment"
 				type: "item"
 			}]
-			title: "Obtain &8Spawner Fragments"
-			x: 14.0d
+			title: "Obtén Fragmentos de Generador &8"			x: 14.0d
 			y: 2.0d
 		}
 		{
@@ -365,14 +331,12 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Killing mobs with the &2Soul Stealing&r enchantment gives them a chance to drop &1Mob Souls&r. By clicking a &1Mob Soul&r onto an Inactive Spawner, the spawner will become active."
-			tasks: [{
+			subtitle: "Matar criaturas con el encantamiento de &2Robo de Almas&r les da una oportunidad de soltar &1Almas de Criaturas&r. Al hacer clic en una &1Alma de Criatura&r sobre un Spawner Inactivo, el spawner se volverá activo."			tasks: [{
 				id: "2744C691D23BEEC8"
 				item: "spawnersplus:inactive_spawner"
 				type: "item"
 			}]
-			title: "Craft an &cInactive Spawner"
-			x: 14.0d
+			title: "Craftear un &cSpawner Inactivo"			x: 14.0d
 			y: 3.5d
 		}
 		{
@@ -385,16 +349,14 @@
 				random_bonus: 3
 				type: "item"
 			}]
-			subtitle: "Found in the &bFrosted Prison&7, in snow biomes. Locate with an &1Eye of Curse"
-			tasks: [{
+			subtitle: "Encontrado en la &bPrisión Helada&7, en biomas de capa de nieve. Localiza con un &1Ojo de la Maldición"			tasks: [{
 				entity: "cataclysm:maledictus"
 				icon: "cataclysm:cursed_eye"
 				id: "7F2A3471BB0F60A2"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat &b&lMaledictus"
-			x: 11.0d
+			title: "Derrota &b&lMaledictus"			x: 11.0d
 			y: 0.0d
 		}
 		{
@@ -405,8 +367,7 @@
 				type: "xp_levels"
 				xp_levels: 15
 			}]
-			subtitle: "Found inside the Monastery, a structure that spawns in the &bFrozen Peaks&r biome"
-			tasks: [{
+			subtitle: "Encontrado dentro del Monasterio, una estructura que aparece en el &bCumbres heladas&r bioma"			tasks: [{
 				entity: "mowziesmobs:sculptor"
 				icon: {
 					Count: 1
@@ -416,13 +377,11 @@
 					}
 				}
 				id: "712A402BEB54E3B4"
-				title: "Defeat &aTongbi, the Sculptor"
-				type: "kill"
+				title: "Derrota &aTongbi, el Escultor"				type: "kill"
 				value: 1L
 			}]
 			x: 13.0d
 			y: 2.0d
 		}
 	]
-	title: " &aOverworld"
-}
+	title: "&aOverworld"}

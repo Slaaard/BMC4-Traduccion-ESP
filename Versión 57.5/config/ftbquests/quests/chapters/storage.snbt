@@ -18,14 +18,12 @@
 				random_bonus: 8
 				type: "item"
 			}]
-			subtitle: "The base of your storage system. Your request table needs to be touching your network root, and all storage blocks need to be connected to the root via cables. Only one root can be used per system."
-			tasks: [{
+			subtitle: "La base de tu sistema de almacenamiento. Tu mesa de solicitud debe tocar la raíz de tu red, y todos los bloques de almacenamiento deben estar conectados a la raíz mediante Cables. Solo se puede usar una raíz por Sistema."			tasks: [{
 				id: "2CC52120FFB3653F"
 				item: "storagenetwork:master"
 				type: "item"
 			}]
-			title: "Craft a &cStorage Network Root"
-			x: -2.0d
+			title: "Craftear un &cAlmacenamiento Red Dimensional Raíz"			x: -2.0d
 			y: -2.5d
 		}
 		{
@@ -38,14 +36,12 @@
 				random_bonus: 32
 				type: "item"
 			}]
-			subtitle: "The same thing as &3Storage Inventory&r, except the &9Storage Request Table&r has a built-in crafting table for easy crafting."
-			tasks: [{
+			subtitle: "Lo mismo que &3Almacenamiento Inventario&r, excepto que el &9Solicitud de Mesa de Almacenamiento&r tiene una mesa de trabajo integrada para un crafteo fácil."			tasks: [{
 				id: "2BA4869E23D65B68"
 				item: "storagenetwork:request"
 				type: "item"
 			}]
-			title: "Craft a &9Storage Request Table"
-			x: -0.5d
+			title: "Craftear una &9Solicitud de Mesa de Almacenamiento"			x: -0.5d
 			y: 0.5d
 		}
 		{
@@ -55,14 +51,12 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Only connects to other network blocks, such as request tables and the network root."
-			tasks: [{
+			subtitle: "Solo se conecta a otros bloques de red, como las tablas de solicitud y la raíz de la red."			tasks: [{
 				id: "681262ED8C55F5CA"
 				item: "storagenetwork:kabel"
 				type: "item"
 			}]
-			title: "Craft a &eNetwork Cable"
-			x: -0.5d
+			title: "Craftear un &eCable de Red Dimensional"			x: -0.5d
 			y: -2.5d
 		}
 		{
@@ -74,14 +68,12 @@
 				item: "minecraft:chest"
 				type: "item"
 			}]
-			subtitle: "Cheaper version of the &9Storage Request Table&r, without the built-in crafting table."
-			tasks: [{
+			subtitle: "Versión más económica de la &9Solicitud de Mesa de Almacenamiento&r, sin la mesa de trabajo integrada."			tasks: [{
 				id: "3A78623D44FCB6E6"
 				item: "storagenetwork:inventory"
 				type: "item"
 			}]
-			title: "Craft a &3Storage Inventory"
-			x: -0.5d
+			title: "Craftear un &3Almacenamiento Inventario"			x: -0.5d
 			y: -1.0d
 		}
 		{
@@ -92,14 +84,12 @@
 				type: "xp_levels"
 				xp_levels: 10
 			}]
-			subtitle: "Equippable in the Charm slot. Allows for easy access to your storage network, alongside a built-in crafting table."
-			tasks: [{
+			subtitle: "Equipable en la ranura de Amuleto. Permite un acceso fácil a tu red de almacenamiento, junto con una mesa de trabajo integrada."			tasks: [{
 				id: "22F4E52F4FBCEF71"
 				item: "storagenetwork:crafting_remote"
 				type: "item"
 			}]
-			title: "Craft a &2Crafting Remote"
-			x: -3.5d
+			title: "Craftear un &2Crafteo Remoto"			x: -3.5d
 			y: -2.5d
 		}
 		{
@@ -111,14 +101,12 @@
 				item: "storagenetwork:filter_kabel"
 				type: "item"
 			}]
-			subtitle: "Cheaper version of the &2Crafting Remote&r, without the built-in crafting table."
-			tasks: [{
+			subtitle: "Versión más económica del &2Crafteo Remoto&r, sin la mesa de trabajo integrado."			tasks: [{
 				id: "14FC0FEACDD81C6E"
 				item: "storagenetwork:inventory_remote"
 				type: "item"
 			}]
-			title: "Craft a &8Storage Remote"
-			x: -2.0d
+			title: "Craftear un &8Almacenamiento Remoto"			x: -2.0d
 			y: -1.0d
 		}
 		{
@@ -129,14 +117,12 @@
 				type: "xp_levels"
 				xp_levels: 10
 			}]
-			subtitle: "Equippable in the Charm slot. All items you collect will be automatically put into your linked storage system."
-			tasks: [{
+			subtitle: "Equipable en la ranura de Amuleto. Todos los objetos que recolectes se colocarán automáticamente en tu sistema de almacenamiento enlazado."			tasks: [{
 				id: "17EE907B21726CA7"
 				item: "storagenetwork:collector_remote"
 				type: "item"
 			}]
-			title: "Craft a &aNetwork Collector Remote"
-			x: -3.5d
+			title: "Craftear un &aRecolector Remoto de Red Dimensional"			x: -3.5d
 			y: -1.0d
 		}
 		{
@@ -149,14 +135,12 @@
 				random_bonus: 4
 				type: "item"
 			}]
-			subtitle: "Capable of storing many items per slot. Great when paired with a storage network for space efficiency and to reduce lag."
-			tasks: [{
+			subtitle: "Capaz de almacenar muchos objetos por ranura. Excelente cuando se combina con una red de almacenamiento para mayor eficiencia de espacio y para reducir el lag."			tasks: [{
 				id: "2193B4A5DC1D44A5"
 				item: "netherchested:nether_chest"
 				type: "item"
 			}]
-			title: "Craft a &4Nether Chest"
-			x: 1.0d
+			title: "Craftea un &4Cofre del Nether"			x: 1.0d
 			y: -2.5d
 		}
 		{
@@ -169,16 +153,13 @@
 				random_bonus: 8
 				type: "item"
 			}]
-			subtitle: "Used to connect your Network Root to storage blocks, such as chests and barrels. When linking double chests, make sure to only have one cable connected to the double chest, instead of one cable per single chest."
-			tasks: [{
+			subtitle: "Utilizado para conectar tu Raíz de Red a bloques de almacenamiento, como cofres y barriles. Al enlazar cofres dobles, asegúrate de que solo un cable esté conectado al cofre doble, en lugar de un cable por cofre solitario."			tasks: [{
 				id: "30DB892DB5E0C454"
 				item: "storagenetwork:storage_kabel"
 				type: "item"
 			}]
-			title: "Craft a &dLink Cable"
-			x: 1.0d
+			title: "Craftear un &dCable de Link"			x: 1.0d
 			y: -1.0d
 		}
 	]
-	title: " &3Storage"
-}
+	title: "Almacenamiento"}

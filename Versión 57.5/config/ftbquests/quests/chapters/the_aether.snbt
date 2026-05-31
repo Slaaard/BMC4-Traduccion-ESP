@@ -17,13 +17,11 @@
 				xp_levels: 5
 			}]
 			size: 2.0d
-			subtitle: "&eThe Aether&r portal is built the same way as a Nether Portal, but instead of Obsidian you use Glowstone, and instead of a Flint n' Steel you use a water bucket."
-			tasks: [{
+			subtitle: "El portal &eThe Aether&r se construye de la misma manera que un Portal del Nether, pero en lugar de Obsidiana usas Piedra Luminosa, y en lugar de un Pedernal y acero usas un Cubo con agua."			tasks: [{
 				dimension: "aether:the_aether"
 				icon: "aether:aether_portal_frame"
 				id: "1A6561D8DE5A63CE"
-				title: "Enter &eThe Aether"
-				type: "dimension"
+				title: "Entrar &eEl Aether"				type: "dimension"
 			}]
 			x: 0.0d
 			y: 2.0d
@@ -39,13 +37,11 @@
 			}]
 			shape: "square"
 			size: 1.3d
-			subtitle: "&eBronze Dungeons&r have entrances that are located on the sides of normal islands. Bronze dungeons can have a varying number of rooms. Non-boss rooms contain &c&lsentries&r&r which attack the player, and sometimes have chests on 4x4 tables. Some of these chests are &cMimics&r, however. The &9boss&r of this dungeon can't be attacked with a sword. He can, however, take damage from any tool (&apickaxe&r, &ashovel&r, etc.). &c9 blocks&r on the floor of each antechamber aren't mineable at all. The &cboss room's&r walls are only mineable once the &cboss&r is dead."
-			tasks: [{
+			subtitle: "&eMazmorras de Bronce&r tienen entradas ubicadas en los lados de islas normal. Las mazmorras de bronce pueden tener un número variable de habitaciones. Las habitaciones sin jefe contienen &c&lcentinelas&r&r que atacan al jugador, y a veces tienen cofres en tablas de 4x4. Sin embargo, algunos de estos cofres son &cMímicos&r. El &9jefe&r de esta mazmorra no puede ser atacado con una espada. Sin embargo, puede recibir daño de cualquier herramienta (&apico&r, &apala&r, etc.). &c9 bloques&r en el suelo de cada antecámara no son minables en absoluto. Las paredes de la habitación del &cjefe&r solo son minables una vez que el &cjefe&r está muerto."			tasks: [{
 				icon: "aether:carved_stone"
 				id: "3865A3E4D4A9A5F3"
 				structure: "aether:bronze_dungeon"
-				title: "Visit a &eBronze Dungeon"
-				type: "structure"
+				title: "Visita una &eMazmorra de Bronce"				type: "structure"
 			}]
 			x: -2.0d
 			y: 2.0d
@@ -64,8 +60,7 @@
 			}]
 			shape: "circle"
 			size: 1.2d
-			subtitle: "&bSliders&r is a boss found in &eBronze Dungeons&r. "
-			tasks: [{
+			subtitle: "&bDeslizantes&r son un jefe encontrado en &eMazmorras de Bronce&r."			tasks: [{
 				entity: "aether:slider"
 				icon: {
 					Count: 1
@@ -75,8 +70,7 @@
 					}
 				}
 				id: "69F7F61602435663"
-				title: "Defeat the &bSlider"
-				type: "kill"
+				title: "Derrota el &bDeslizante"				type: "kill"
 				value: 1L
 			}]
 			x: -5.0d
@@ -92,13 +86,11 @@
 			}]
 			shape: "square"
 			size: 1.3d
-			subtitle: "&8Silver Dungeons&r are located within structures resembling a &aparthenon&r in the sky. These have multiple floors, typically three, each with multiple rooms. Most rooms have chests inside them, and while the majority of the chests are fake (&cMimics&r), others contain some items. Silver Dungeons are inhabited by &9Valkyries&r, which only attack when the player attacks them. When playing on Peaceful, Valkyries still appear, but will teleport away when the player tries to attack them. Killing a &9Valkyrie&r yields a single &aVictory Medal&r. The boss of this dungeon can only be attacked by presenting it with &a10 Victory Medals&r, which can be done by right-clicking on it with the &aVictory Medals&r in hand. The &aSilver Dungeon boss&r can be attacked with any weapon."
-			tasks: [{
+			subtitle: "&8Las Mazmorras de Plata&r se encuentran dentro de estructuras que se asemejan a un &aparthenon&r en el cielo. Estas tienen múltiples pisos, típicamente tres, cada uno con varias habitaciones. La mayoría de las habitaciones tienen cofres dentro, y aunque la mayoría de los cofres son falsos (&cMímicos&r), otros contienen algunos objetos. Las Mazmorras de Plata están habitadas por &9Valquirias&r, que solo atacan cuando el jugador las ataca. Al jugar en modo Pacífico, las Valquirias aún aparecen, pero se teletransportarán cuando el jugador intente atacarlas. Matar a una &9"			tasks: [{
 				icon: "aether:locked_angelic_stone"
 				id: "760227D918F26D13"
 				structure: "aether:silver_dungeon"
-				title: "Visit the &7Silver Dungeon"
-				type: "structure"
+				title: "Visita la &7Mazmorra de Plata"				type: "structure"
 			}]
 			x: 2.0d
 			y: 2.0d
@@ -113,13 +105,11 @@
 			}]
 			shape: "square"
 			size: 1.3d
-			subtitle: "&6Gold Dungeons&r are located within spherical islands with lots of &eGolden Oak&r trees growing on top of them. This dungeon normally will only have the &c&lboss room&r&r in it, with no treasure/mob rooms beforehand. The &eSun Spirit&r cannot be killed by attacking it directly and must be killed by hitting the &fwhite object&r he throws back at it multiple times. Every time it is hit with the white object, it sends out a smaller version of itself to attack the player. Once the player kills the &eSun Spirit&r, the sun will finally set in the Aether. Before the player kills the Sun Spirit, the sun will never go down."
-			tasks: [{
+			subtitle: "&6Mazmorras de Oro&r se encuentran dentro de islas esféricas con muchos &eGolden Oak&r árboles creciendo encima de ellas. Esta mazmorra normalmente solo tendrá la &c&lsala del jefe&r&r, sin habitaciones de tesoro/mobs antes. El &eEspíritu del Sol&r no puede ser asesinado atacándolo directamente y debe ser asesinado golpeando el &fobjeto blanco&r que lanza de vuelta hacia él múltiples veces. Siempre que es golpeado con el objeto blanco, envía una versión más pequeña de sí mismo para atacar al jugador. Una vez que el jugador asesina al &eEspíritu del Sol&r, el sol finalmente se pondrá en El Aether. Antes de que el jugador asesine al Espíritu del Sol, el sol nunca se pondrá."			tasks: [{
 				icon: "aether:hellfire_stone"
 				id: "1D066EC48DFC09CD"
 				structure: "aether:gold_dungeon"
-				title: "Visit a &6Gold Dungeon"
-				type: "structure"
+				title: "Visita una &6Mazmorra de Oro"				type: "structure"
 			}]
 			x: 0.0d
 			y: 4.550000000000001d
@@ -134,13 +124,11 @@
 				item: "deep_aether:purple_squash_slice"
 				type: "item"
 			}]
-			subtitle: "&eValkyries&r are &eneutral mobs&r who prove themselves through battle. They will not attack unless provoked, and are found only in &8Silver Dungeons&r"
-			tasks: [{
+			subtitle: "&eValquirias&r son &ecriaturas neutrales&r que se prueban a sí mismas en batalla. No atacarán a menos que sean provocadas, y se encuentran solo en &8Mazmorras de Plata&r"			tasks: [{
 				entity: "aether:valkyrie"
 				icon: "aether:victory_medal"
 				id: "121640BF259D479C"
-				title: "Defeat a &eValkyrie"
-				type: "kill"
+				title: "Derrota a las Valquirias &e"				type: "kill"
 				value: 1L
 			}]
 			x: 3.5d
@@ -163,13 +151,11 @@
 			}]
 			shape: "circle"
 			size: 1.2d
-			subtitle: "&6The Valkyrie Queen&r is a boss found in &8Silver Dungeons&r. "
-			tasks: [{
+			subtitle: "&6La Reina Valquiria&r es un jefe encontrado en &8Mazmorras de Plata&r."			tasks: [{
 				entity: "aether:valkyrie_queen"
 				icon: "aether:valkyrie_queen_spawn_egg"
 				id: "0E561AF5890B4422"
-				title: "Defeat the &6Valkyrie Queen"
-				type: "kill"
+				title: "Derrota a la &6Reina Valquiria"				type: "kill"
 				value: 1L
 			}]
 			x: 5.0d
@@ -191,13 +177,11 @@
 				random_bonus: 4
 				type: "item"
 			}]
-			subtitle: "&cSentry&r are &4hostile mobs&r found in &eBronze Dungeons&r"
-			tasks: [{
+			subtitle: "&cCentinela&r son &4Entidades Hostiles&r hallados en &eMazmorras de Bronce&r"			tasks: [{
 				entity: "aether:sentry"
 				icon: "aether:sentry_spawn_egg"
 				id: "4937B6F09587F4C9"
-				title: "Defeat a &cSentry"
-				type: "kill"
+				title: "Derrota a un &cCentinela"				type: "kill"
 				value: 1L
 			}]
 			x: -3.5d
@@ -213,13 +197,11 @@
 				random_bonus: 8
 				type: "item"
 			}]
-			subtitle: "&bMimics&r are &4hostile mobs&r in &eBronze Dungeons&r"
-			tasks: [{
+			subtitle: "&bMímicos&r son &4entidades hostiles&r en &eMazmorras de Bronce&r"			tasks: [{
 				entity: "aether:mimic"
 				icon: "minecraft:trapped_chest"
 				id: "71C06FD3B2B127B3"
-				title: "Defeat a &bMimic"
-				type: "kill"
+				title: "Derrota a un &bMímico"				type: "kill"
 				value: 1L
 			}]
 			x: -3.5d
@@ -236,13 +218,11 @@
 			}]
 			shape: "circle"
 			size: 1.2d
-			subtitle: "&eThe Sun Spirit&r is a boss found in &6Gold Dungeons&r. "
-			tasks: [{
+			subtitle: "&eEl Espíritu del Sol&r es un jefe encontrado en &6Mazmorras Doradas&r."			tasks: [{
 				entity: "aether:sun_spirit"
 				icon: "aether:sun_spirit_spawn_egg"
 				id: "49A00D8BAA0923BD"
-				title: "Defeat the &eSun Spirit"
-				type: "kill"
+				title: "Derrota al Espíritu del Sol &e"				type: "kill"
 				value: 1L
 			}]
 			x: 0.0d
@@ -258,15 +238,13 @@
 				type: "item"
 			}]
 			size: 1.3d
-			subtitle: "&8Brass Dungeons&r are large structures located within the &fcloud layer&r, high above &eThe Aether&r. To get inside, you must break first the &f&lCold Aerclouds&r that obstruct the entrance doors. Once you enter the middle of the structure, the &9Eye of the Storm&r will awaken."
-			tasks: [{
+			subtitle: "&8Mazmorras de Latón&r son grandes estructuras ubicadas dentro de la &fcapa de Nube&r, muy por encima de &eEl Aether&r. Para acceder, primero debes romper las &f&lAeronubes Frías&r que obstruyen las puertas de entrada. Una vez que entras al centro de la estructura, &9En el Ojo de la Tormenta&r despertará."			tasks: [{
 				icon: "deep_aether:nimbus_stone"
 				id: "1ED24E528F1BB4EA"
 				structure: "deep_aether:brass_dungeon"
 				type: "structure"
 			}]
-			title: "Visit a &8Brass Dungeon"
-			x: 0.0d
+			title: "Visita una &8Mazmorra de Latón"			x: 0.0d
 			y: 0.0d
 		}
 		{
@@ -285,17 +263,14 @@
 				}
 				type: "item"
 			}]
-			subtitle: "The &9Eye of the Storm&r is found in &8Brass Dungeons&r."
-			tasks: [{
+			subtitle: "El &9En el Ojo de la Tormenta&r se encuentra en &8Mazmorras de Latón&r."			tasks: [{
 				advancement: "deep_aether:brass_dungeon"
 				criterion: ""
 				id: "3378248AE4DF9294"
 				type: "advancement"
 			}]
-			title: "Defeat the &9Eye of the Storm"
-			x: 0.0d
+			title: "Derrota en el Ojo de la Tormenta &9"			x: 0.0d
 			y: -2.0d
 		}
 	]
-	title: " &e&lThe Aether"
-}
+	title: "&e&lEl Aether"}

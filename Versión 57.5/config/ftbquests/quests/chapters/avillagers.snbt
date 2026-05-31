@@ -10,34 +10,23 @@
 	quests: [
 		{
 			description: [
-				"There are many changes to &2villager&r behavior present in &eBetter Minecraft:"
+				"Hay muchos cambios al comportamiento de los &2aldeano&r presentes en &eBetter Minecraft:"				""
+				"Te seguirán si tienes un &a&lBloque de Esmeralda&r en la mano."				""
 				""
-				"- They will follow you if you have an &a&lEmerald Block&r in hand."
+				"- Se reproducirán con otros &2aldeanos&r al recibir cualquier objeto de comida, incluyendo alimentos modificados, siempre que haya camas disponibles en la &baldea&r."				""
 				""
+				"- &6Aldeanos Agricultores&r son mucho más inteligentes al replantar cultivos, y tomarán en cuenta lo que acaban de cultivar y qué cultivos hay cerca."				"También cultivarán cosechas modificadas."				""
 				""
-				"- They will breed with other &2villagers&r when given any food item, including modded foods, as long as there are available beds in the &bvillage&r."
+				"Cada aldeano tiene un nombre único, visible sobre su cabeza."				""
 				""
+				"Debido a estos cambios en el comportamiento de &2Aldeano&r, muchas granjas automáticas que involucran a aldeanos no funcionarán correctamente."				""
 				""
-				"- &6Farmer villagers&r are much more intelligent when replanting crops, and will take into account what it just farmed and what crops are nearby. "
-				"They will also farm modded crops."
+				"&bAldeas&r también han recibido algunos cambios:"				""
+				"Ya no aparecen en laderas o otro terreno irregular. Esto significa que es mucho más probable encontrar &bvillages&r en terreno plano."				""
 				""
+				"- Ellos ahora pueden aparecer en Pantanos, Junglas, y &e&lEl Aether&r Dimensión."				""
 				""
-				"- Each villager has a unique name, shown above its head."
-				""
-				""
-				"Due to these changes in &2villager&r behavior, many automatic farms involving villagers will not work properly."
-				""
-				""
-				"&bVillages&r have also received some changes:"
-				""
-				"- They no longer spawn on hillsides or other uneven terrain. This means you are much more likely to find &bvillages&r on flat terrain."
-				""
-				""
-				"- They can now spawn in Swamps, Jungles, and &e&lThe Aether&r dimension."
-				""
-				""
-				"- &4Raids&r now have many new enemies. If you are unable to find the last enemy during a raid, you can ring a bell to highlight it."
-			]
+				"- &4Invasiones&r ahora tienen muchos enemigos nuevos. Si no puedes encontrar al último enemigo durante una invasión, puedes hacer sonar una campana para resaltarlo."			]
 			id: "668F895111A5E4C6"
 			rewards: [{
 				count: 8
@@ -47,8 +36,7 @@
 			}]
 			shape: "pentagon"
 			size: 1.2d
-			subtitle: "Read my description!"
-			tasks: [{
+			subtitle: "¡Lee mi descripción!"			tasks: [{
 				icon: "minecraft:villager_spawn_egg"
 				id: "2713029FBE2C093D"
 				observe_type: 5
@@ -56,8 +44,7 @@
 				to_observe: "minecraft:villager"
 				type: "observation"
 			}]
-			title: "Observe a &2Villager"
-			x: 0.5d
+			title: "Observa a un &2Aldeano"			x: 0.5d
 			y: -0.5d
 		}
 		{
@@ -70,14 +57,12 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Used to turn a villager into an &dOccultist"
-			tasks: [{
+			subtitle: "Sirvió para convertir a un aldeano en un &dOccultista"			tasks: [{
 				id: "3594A94ECDBC14FB"
 				item: "villagersplus:occultist_table"
 				type: "item"
 			}]
-			title: "Craft an &dEnchanted Basin"
-			x: 2.0d
+			title: "Craftear una &dCuenca Encantada"			x: 2.0d
 			y: -1.0d
 		}
 		{
@@ -90,14 +75,12 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Used to turn a villager into an &3Oceanographer"
-			tasks: [{
+			subtitle: "Usado para convertir a un aldeano en un &3Oceanógrafo"			tasks: [{
 				id: "4C0E5C8767021665"
 				item: "villagersplus:oceanographer_table"
 				type: "item"
 			}]
-			title: "Craft an &3Aquarium"
-			x: 1.5d
+			title: "Craftear un &3Acuario"			x: 1.5d
 			y: 1.0d
 		}
 		{
@@ -110,14 +93,12 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Allows you to see &etrades&r with nearby &2villagers&r"
-			tasks: [{
+			subtitle: "Te permite ver los &ecomercios Traducidos&r con los aldeanos cercanos &2&r"			tasks: [{
 				id: "482F110C2981A7F7"
 				item: "tradingpost:trading_post"
 				type: "item"
 			}]
-			title: "Craft a &aTrading Post"
-			x: 0.5d
+			title: "Craftear un &aPuesto de Intercambio"			x: 0.5d
 			y: -2.0d
 		}
 		{
@@ -130,14 +111,12 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Used to turn a villager into a &5Alchemist"
-			tasks: [{
+			subtitle: "Usado para convertir a un aldeano en un &5Alquimista"			tasks: [{
 				id: "72527896BB77CECD"
 				item: "villagersplus:alchemist_table"
 				type: "item"
 			}]
-			title: "Craft an &5Alchemist Table"
-			x: -0.5d
+			title: "Craftear una &5Mesa de Alchemista"			x: -0.5d
 			y: 1.0d
 		}
 		{
@@ -150,8 +129,7 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Used to turn a villager into a &6Horticulturist"
-			tasks: [{
+			subtitle: "Usado para convertir a un aldeano en un &6Horticultor"			tasks: [{
 				id: "273D4938577F721F"
 				item: {
 					Count: 1
@@ -160,13 +138,10 @@
 						"ftbfiltersystem:filter": "or(mod(villagersplus))not(item(villagersplus:alchemist_table))not(item(villagersplus:occultist_table))not(item(villagersplus:oceanographer_table))"
 					}
 				}
-				title: "Any Flower Tub"
-				type: "item"
+				title: "Cualquier Flor de Tubo"				type: "item"
 			}]
-			title: "Craft a &6Flower Tub"
-			x: -1.0d
+			title: "Craftear un &6Flower Tub"			x: -1.0d
 			y: -1.0d
 		}
 	]
-	title: " &aVillagers"
-}
+	title: "&aAldeanos"}

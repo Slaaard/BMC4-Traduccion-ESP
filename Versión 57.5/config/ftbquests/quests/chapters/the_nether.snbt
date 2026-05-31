@@ -22,16 +22,13 @@
 				type: "item"
 			}]
 			size: 2.0d
-			subtitle: "&cThe Nether&r is accessed the same way as normal Minecraft - a rectangular frame of Obsidian blocks, with a minimum size of 4x5 and a maximum size of 23x23."
-			tasks: [{
+			subtitle: "&cEl Inframundo&r se accede de la misma manera que en Minecraft normal: un marco rectangular de Bloques de Obsidiana, con un tamaño mínimo de 4x5 y un tamaño máximo de 23x23."			tasks: [{
 				dimension: "minecraft:the_nether"
 				icon: "minecraft:netherrack"
 				id: "7FC5892104C0744C"
-				title: "Enter the Nether"
-				type: "dimension"
+				title: "Entrar al Inframundo"				type: "dimension"
 			}]
-			title: "Enter &cThe Nether"
-			x: 3.0d
+			title: "Entrar &cEl Inframundo"			x: 3.0d
 			y: 0.0d
 		}
 		{
@@ -54,16 +51,14 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Found in &8Keeping Castles &rin &cNether Waste &rand &4Crimson Forest &rbiomes. Right click the altar with a &fNether Star &rto summon."
-			tasks: [{
+			subtitle: "Encontrado en &8Mantener Castillos &ren &cDesierto Nether &ry &4Bosque carmesí &rbiomas. Haz Clic! el altar con una &fEstrella del Nether &rpara invocar."			tasks: [{
 				entity: "stalwart_dungeons:nether_keeper"
 				icon: "stalwart_dungeons:keeping_castle_spawner"
 				id: "3702E4C32FE0F698"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &4Nether Keeper"
-			x: 3.0d
+			title: "Derrota a la &4Guardiana del Nether"			x: 3.0d
 			y: -2.0d
 		}
 		{
@@ -81,17 +76,14 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Found in Awful Dungeons, which spawn in Soul Sand Valleys and Warped Forests. Right click the altar with a &fNether Star &rto summon."
-			tasks: [{
+			subtitle: "Encontrado en Mazmorras horribles, que aparecen en Valles de arena de almas y Bosques distorsionados. Haz Clic! el altar con una &fEstrella del Nether &rpara invocar."			tasks: [{
 				entity: "stalwart_dungeons:awful_ghast"
 				icon: "stalwart_dungeons:awful_dungeon_spawner"
 				id: "320E04AD2AD28E79"
-				title: "Kill an Awful Ghast"
-				type: "kill"
+				title: "Derrota a un Ghast Desastroso"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &9Awful Ghast"
-			x: 5.0d
+			title: "Derrota al &9Ghast Desastroso"			x: 5.0d
 			y: -1.0d
 		}
 		{
@@ -102,8 +94,7 @@
 				type: "xp_levels"
 				xp_levels: 15
 			}]
-			subtitle: "Found in Soul Blacksmiths, which rarely spawn in the &cNether&r. Locate with an &cEye of Monstrous"
-			tasks: [{
+			subtitle: "Encontrado en Herrerías de Alma, las cuales rara vez aparecen en el &cNether&r. Localizar con un &cOjo de la Monstruosidad"			tasks: [{
 				entity: "cataclysm:netherite_monstrosity"
 				icon: {
 					Count: 1
@@ -116,8 +107,7 @@
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &8Netherite Monstrosity"
-			x: 3.0d
+			title: "Derrota la Monstruosidad de Netherita &8"			x: 3.0d
 			y: 2.0d
 		}
 		{
@@ -128,17 +118,14 @@
 				item: "minecraft:enchanted_golden_apple"
 				type: "item"
 			}]
-			subtitle: "The Wither is summoned by placing four soul sand in a \"T\" formation, then placing 3 Wither Skeleton Skulls; one on top of each block."
-			tasks: [{
+			subtitle: "El Wither es invocado colocando cuatro Arena de Almas en una formación \"T\", y luego colocando 3 Calaveras de esqueleto del Wither; una sobre cada Bloque."			tasks: [{
 				entity: "minecraft:wither"
 				icon: "minecraft:wither_skeleton_skull"
 				id: "575C8BC94DAC2B05"
-				title: "Kill The Wither"
-				type: "kill"
+				title: "Mata al Wither"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat &8&lThe Wither"
-			x: 1.0d
+			title: "Derrota &8&lEl Wither"			x: 1.0d
 			y: 0.5d
 		}
 		{
@@ -156,17 +143,14 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Found in the Burning Arena"
-			tasks: [{
+			subtitle: "Encontrado en la Arena Ardiendo"			tasks: [{
 				entity: "cataclysm:ignited_revenant"
 				icon: "cataclysm:burning_ashes"
 				id: "4CE4CD701A07CA04"
-				title: "Kill a Ignited Revenant"
-				type: "kill"
+				title: "Derrota a un Renacido Ignífugo"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat a &6Ignited Revenant"
-			x: 5.0d
+			title: "Derrota a un &6Renacido Ignífugo"			x: 5.0d
 			y: 0.5d
 		}
 		{
@@ -184,8 +168,7 @@
 					xp_levels: 5
 				}
 			]
-			subtitle: "Found at the Top of the Burning Arena. Place Burning Ashes in the Altar to Summon &6Ignis&r. Locate with an &6Eye of Flame"
-			tasks: [{
+			subtitle: "Encontrado en el Arriba de la Arena Ardiendo. Coloca Cenizas Ardientes en el Altar para Invocar &6Ignis&r. Localiza con un &6Ojo del Fuego"			tasks: [{
 				entity: "cataclysm:ignis"
 				icon: {
 					Count: 1
@@ -195,14 +178,11 @@
 					}
 				}
 				id: "5C8EF7AD1DD3CB33"
-				title: "Defeat &6Ignis"
-				type: "kill"
+				title: "Derrotar &6Ignis"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat &6Ignis"
-			x: 1.0d
+			title: "Derrotar &6Ignis"			x: 1.0d
 			y: -1.0d
 		}
 	]
-	title: " &cNether"
-}
+	title: "&cNether"}

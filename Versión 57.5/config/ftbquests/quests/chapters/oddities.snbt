@@ -354,14 +354,12 @@
 				item: "minecraft:gold_ingot"
 				type: "item"
 			}]
-			subtitle: "Used to automatically &eTrade&r with nearby &6Piglins.&r Holds &6Gold ingots&r and output barter items."
-			tasks: [{
+			subtitle: "Se utiliza para &eComercio&r automáticamente con los &6Piglínes&r cercanos. Mantiene &6Lingotes de oro&r y produce objetos de trueque."			tasks: [{
 				id: "2D4C1E2F839FD674"
 				item: "barteringstation:bartering_station"
 				type: "item"
 			}]
-			title: "Craft a &4Bartering Station"
-			x: -3.0d
+			title: "Craftear una &4Estación de Intercambio"			x: -3.0d
 			y: -0.5d
 		}
 		{
@@ -372,14 +370,12 @@
 				item: "biomesoplenty:redwood_log"
 				type: "item"
 			}]
-			subtitle: "Crafting station that allows you to create &lany&r wooden item"
-			tasks: [{
+			subtitle: "Estación de crafteo que te permite crear &lcualquiera&r objeto de madera"			tasks: [{
 				id: "028E4A4E71034034"
 				item: "sawmill:sawmill"
 				type: "item"
 			}]
-			title: "Craft a&1 Saw"
-			x: -6.0d
+			title: "Craftear una &1 Sierra"			x: -6.0d
 			y: -0.5d
 		}
 		{
@@ -390,14 +386,12 @@
 				item: "minecraft:bone"
 				type: "item"
 			}]
-			subtitle: "Armor for your pet &fWolves&r. Shift right click your tamed wolf with armor in hand to equip."
-			tasks: [{
+			subtitle: "Armadura para tu mascota &fLobos&r. Mayús Izdo. haz clic derecho en tu lobo domesticado con armadura en mano para equipar."			tasks: [{
 				id: "6BA9E9BF188D874E"
 				item: "revampedwolf:iron_wolf_armor"
 				type: "item"
 			}]
-			title: "Craft &lIron Wolf Armor"
-			x: -1.5d
+			title: "Craftear &lArmadura de Lobo de Hierro"			x: -1.5d
 			y: 1.5d
 		}
 		{
@@ -407,8 +401,7 @@
 				item: "minecraft:armor_stand"
 				type: "item"
 			}]
-			subtitle: "Used to rotate blocks by right clicking. Shift right click to rotate direction. Left and Shift Left click to rotate entities like &earmorstands&r and &eitem frames&r."
-			tasks: [{
+			subtitle: "Usado para rotar Bloques haciendo clic derecho. Mayús Izdo. + Clic Derecho para Rotar la Dirección. Izquierda y Mayús Izdo. + ¡Haz Clic! para rotar Entidades como &earmorstands&r y &eitem frames&r."			tasks: [{
 				id: "364054A106006ED9"
 				item: {
 					Count: 1
@@ -419,8 +412,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft a &6Wrench"
-			x: 1.5d
+			title: "Craftear una &6Llave Inglesa"			x: 1.5d
 			y: -0.5d
 		}
 		{
@@ -430,14 +422,12 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Any medium sized entity can be put into a &8Cage&r. Right click to release, shift click on a block to place the &8Cage&r. Chickens that are inside of cages will produce eggs."
-			tasks: [{
+			subtitle: "Cualquier entidad de tamaño medio puede ser puesta en una &8Jaula&r. Haz clic derecho para liberar, haz clic con Mayús Izdo. en un bloque para colocar la &8Jaula&r. Los pollos que están dentro de las jaulas producirán huevos."			tasks: [{
 				id: "61506B03AD1D6FA4"
 				item: "supplementaries:cage"
 				type: "item"
 			}]
-			title: "Craft a &5Cage"
-			x: 4.5d
+			title: "Craftear una &5Jaula"			x: 4.5d
 			y: -0.5d
 		}
 		{
@@ -447,14 +437,12 @@
 				item: "supplementaries:key"
 				type: "item"
 			}]
-			subtitle: "Acts as an upgraded, &efire resistant&r &dshulker box&r. &7&lSafes&r can be locked with a key."
-			tasks: [{
+			subtitle: "Actúa como una &eresistente a fuego&r &dcaja de shulker&r mejorada. &7&lCajas Fuertes&r pueden ser bloqueadas con una tecla."			tasks: [{
 				id: "46FA4477B1E5F268"
 				item: "supplementaries:safe"
 				type: "item"
 			}]
-			title: "Craft a &7&lSafe"
-			x: -3.0d
+			title: "Craftear una &7&lCaja Fuerte"			x: -3.0d
 			y: 1.5d
 		}
 		{
@@ -464,14 +452,12 @@
 				type: "xp_levels"
 				xp_levels: 9
 			}]
-			subtitle: "&3Transmutes&r any number of items into another at the cost of &aExperience.&r Explodes when broken and drops &fNether Star."
-			tasks: [{
+			subtitle: "&3Transmuta〖1"			tasks: [{
 				id: "1F47E54ADAE5BCB5"
 				item: "alexsmobs:transmutation_table"
 				type: "item"
 			}]
-			title: "Craft &athe Transmuation Table"
-			x: 6.0d
+			title: "Craftear &ala Mesa de Transmutación"			x: 6.0d
 			y: 1.5d
 		}
 		{
@@ -483,8 +469,7 @@
 				random_bonus: 8
 				type: "item"
 			}]
-			subtitle: "Used to find &5End Portal Frames&r. &cIntegrated Structures&r overhauls the &8Stronghold&r, making them more vast. "
-			tasks: [{
+			subtitle: "Sirve para encontrar &5Marcos del portal del End&r. &cEstructuras&r reestructuran la &8Fortaleza&r, haciéndola más vasta."			tasks: [{
 				id: "092337026D40809E"
 				item: {
 					Count: 1
@@ -495,8 +480,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft &bthe Endolocator"
-			x: 3.0d
+			title: "Craftear &bel Endolocalizador"			x: 3.0d
 			y: 1.5d
 		}
 		{
@@ -506,8 +490,7 @@
 				item: "minecraft:pufferfish_bucket"
 				type: "item"
 			}]
-			subtitle: "Used to find the world's &4Devil's Hole Chunk"
-			tasks: [{
+			subtitle: "Para encontrar el &4Devil's Hole Chunk del mundo"			tasks: [{
 				id: "51D0F0965E7474D0"
 				item: {
 					Count: 1
@@ -518,8 +501,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft &3the Strange Fish Finder"
-			x: 3.0d
+			title: "Craftear &3el Buscador de Peces Raros"			x: 3.0d
 			y: -0.5d
 		}
 		{
@@ -529,8 +511,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Used as a &4Lava Surf Board&r that can jump, and is enchantable."
-			tasks: [{
+			subtitle: "Usado como un &4Tabla de Surf de Lava&r que puede saltar, y es encantable."			tasks: [{
 				id: "694519243F2ABB20"
 				item: {
 					Count: 1
@@ -541,8 +522,7 @@
 				}
 				type: "item"
 			}]
-			title: "Craft&5 the Straddleboard"
-			x: 4.5d
+			title: "Craftear&5 la Tabla de Surf Ignífuga"			x: 4.5d
 			y: 1.5d
 		}
 		{
@@ -553,14 +533,12 @@
 				item: "supplementaries:rope"
 				type: "item"
 			}]
-			subtitle: "This compass allows you to search for any &2Biome."
-			tasks: [{
+			subtitle: "Esta brújula te permite buscar cualquier &2Bioma."			tasks: [{
 				id: "1AB4700BD15535AC"
 				item: "naturescompass:naturescompass"
 				type: "item"
 			}]
-			title: "Craft a &aNature's Compass"
-			x: 6.0d
+			title: "Craftea una &aBrújula de la Naturaleza"			x: 6.0d
 			y: -0.5d
 		}
 		{
@@ -571,14 +549,12 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "Allows for easy transportation between &lany &rtwo places. Longer transport may consume &aexperience&r."
-			tasks: [{
+			subtitle: "Permite un transporte fácil entre &lcualquiera&rdos lugares. El transporte más largo puede consumir &aexperiencias&r."			tasks: [{
 				id: "40816443016DB10C"
 				item: "waystones:waystone"
 				type: "item"
 			}]
-			title: "Obtain a &6Waystone"
-			x: -6.0d
+			title: "Obtén una &6piedra de viaje"			x: -6.0d
 			y: 1.5d
 		}
 		{
@@ -589,14 +565,12 @@
 				item: "minecraft:glowstone"
 				type: "item"
 			}]
-			subtitle: "When a pet dies, they will drop a &cPet Collar&r. By clicking the collar onto a &8Charged Respawn Anchor&r (respawn anchors are charged using Glowstone Blocks), the pet will respawn in a &2zombified&r form. This can be reversed in the same way as a &2Zombie Villager&r, using a &6Golden Apple&r and a &8Weakness Potion&r."
-			tasks: [{
+			subtitle: "Cuando una mascota muere, dejará caer un &cCollar de Mascota&r. Al hacer clic en el collar sobre un &8Ancla de reaparición cargada&r (las anclas de reaparición se cargan usando Bloques de Piedra Luminosa), la mascota reaparecerá en una forma &2zombificada&r. Esto puede revertirse de la misma manera que un &2Aldeano zombi&r, usando una &6Manzana dorada&r y una &8Poción de Debilidad&r."			tasks: [{
 				id: "4086ED8B1DB71163"
 				item: "pet_cemetery:pet_collar"
 				type: "item"
 			}]
-			title: "Obtain a &cPet Collar"
-			x: 1.5d
+			title: "Obtén un &cCollar de Mascota"			x: 1.5d
 			y: 1.5d
 		}
 		{
@@ -606,8 +580,7 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "Allows for easy transport on the same Y axis."
-			tasks: [{
+			subtitle: "Permitir transporte fácil en el mismo eje Y."			tasks: [{
 				id: "67AB7E57F0548C2C"
 				item: {
 					Count: 1
@@ -616,11 +589,9 @@
 						value: "elevatorid:elevators"
 					}
 				}
-				title: "Any #elevatorid:elevators"
-				type: "item"
+				title: "Cualquiera #elevatorid:ascensores"				type: "item"
 			}]
-			title: "Craft an &eElevator"
-			x: -4.5d
+			title: "Craftear un &eElevator"			x: -4.5d
 			y: 3.5d
 		}
 		{
@@ -630,14 +601,12 @@
 				item: "supplementaries:relayer"
 				type: "item"
 			}]
-			subtitle: " Compact, vertical &4redstone &rsignaling."
-			tasks: [{
+			subtitle: "Compacta, vertical señalización de &4redstone &r."			tasks: [{
 				id: "00697518D4841629"
 				item: "supplementaries:cog_block"
 				type: "item"
 			}]
-			title: "Craft a &6Cog Block"
-			x: -4.5d
+			title: "Craftear un &6Bloque de Engranaje"			x: -4.5d
 			y: 1.5d
 		}
 		{
@@ -647,14 +616,12 @@
 				item: "supplementaries:blackboard"
 				type: "item"
 			}]
-			subtitle: "Reverts &cd&ay&ee&bd &ritems, cleans &6Copper Blocks&r, un&cd&ay&ee&bs &rSheep, and turns &2Sticky &rPistons into Pistons."
-			tasks: [{
+			subtitle: "Restaura &cd&ay&ee&bd &robjetos, limpia &6Bloques de Cobre&r, des&cd&ay&ee&bs &rOvejas, y convierte &2Pistones Pegajosos&r en Pistones."			tasks: [{
 				id: "3AA7F92859BB07AE"
 				item: "supplementaries:soap"
 				type: "item"
 			}]
-			title: "Craft &dSoap"
-			x: -1.5d
+			title: "Craftear &dJabón"			x: -1.5d
 			y: 3.5d
 		}
 		{
@@ -664,14 +631,12 @@
 				type: "xp_levels"
 				xp_levels: 2
 			}]
-			subtitle: "Very small entities can be put into a &fJar&r. Right click to release, shift click on a block to place the &fJar&r."
-			tasks: [{
+			subtitle: "Las entidades muy pequeñas pueden ser puestas en un &fTarro&r. Haz clic derecho para liberar, haz clic con Mayús Izdo. en un Bloque para colocar el &fTarro&r."			tasks: [{
 				id: "44335EDA5736845E"
 				item: "supplementaries:jar"
 				type: "item"
 			}]
-			title: "Craft a &fJar"
-			x: 4.5d
+			title: "Craftear un &fTarro"			x: 4.5d
 			y: 3.5d
 		}
 		{
@@ -681,14 +646,12 @@
 				type: "xp_levels"
 				xp_levels: 5
 			}]
-			subtitle: "An easy way to store &aexperience levels&r."
-			tasks: [{
+			subtitle: "Una forma fácil de almacenar &aNiveles de experiencia&r."			tasks: [{
 				id: "742CF297B5ED3C79"
 				item: "xpbook:xp_tome"
 				type: "item"
 			}]
-			title: "Craft an &5XP Tome"
-			x: -1.5d
+			title: "Craftear un &5Tomo de Xp"			x: -1.5d
 			y: -0.5d
 		}
 		{
@@ -699,14 +662,12 @@
 				item: "minecraft:melon_seeds"
 				type: "item"
 			}]
-			subtitle: "Tells you the current season. Seasons affect many things - especially crop growth and weather."
-			tasks: [{
+			subtitle: "Te indica la estación actual. Las estaciones afectan muchas cosas, especialmente el crecimiento de los cultivos y el clima."			tasks: [{
 				id: "3A0E3567DE62DBCD"
 				item: "sereneseasons:calendar"
 				type: "item"
 			}]
-			title: "Craft a &eCalendar"
-			x: 6.0d
+			title: "Craftear un &eCalendario"			x: 6.0d
 			y: 3.5d
 		}
 		{
@@ -718,14 +679,12 @@
 				random_bonus: 32
 				type: "item"
 			}]
-			subtitle: "A totem that prevents you from dying in the void, teleporting you to a safe place. Can be equipped in the Trinket slot."
-			tasks: [{
+			subtitle: "Un tótem que te evita morir en El Vacío, teletransportándote a una Caja Fuerte. Puede equiparse en la ranura de Adorno."			tasks: [{
 				id: "12D1019A39525D66"
 				item: "voidtotem:totem_of_void_undying"
 				type: "item"
 			}]
-			title: "Craft a &bTotem of Void Undying"
-			x: 3.0d
+			title: "Craftear un &bTotem del Vacío Inmortal"			x: 3.0d
 			y: 3.5d
 		}
 		{
@@ -735,14 +694,12 @@
 				item: "farmersdelight:noodle_soup"
 				type: "item"
 			}]
-			subtitle: "One of three Magnum torch variants. Prevents monster spawns in a radius of 64 blocks horizontally and 32 blocks vertically."
-			tasks: [{
+			subtitle: "Uno de tres variantes de antorcha Magnum. Previene el surgimiento de monstruos en un radio de 64 bloques horizontalmente y 32 bloques verticalmente."			tasks: [{
 				id: "2B2DDC4CC62CAA4B"
 				item: "magnumtorch:diamond_magnum_torch"
 				type: "item"
 			}]
-			title: "Craft a &bDiamond Magnum Torch"
-			x: 1.5d
+			title: "Craftea una &bAntorcha Magnum de Diamante"			x: 1.5d
 			y: 3.5d
 		}
 		{
@@ -758,14 +715,12 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Bounties have varying levels of rewards. You can craft decrees to get new bounties."
-			tasks: [{
+			subtitle: "Los Bounties tienen diferentes niveles de recompensas. Puedes craftear decretos para obtener nuevas recompensas."			tasks: [{
 				id: "5E711F394E4964BE"
 				item: "bountiful:bountyboard"
 				type: "item"
 			}]
-			title: "Craft a &6Bounty Board"
-			x: -3.0d
+			title: "Craftear un &6Tablón de Recompensas"			x: -3.0d
 			y: 3.5d
 		}
 		{
@@ -776,14 +731,12 @@
 				random_bonus: 2
 				type: "item"
 			}]
-			subtitle: "By combining any enchanted item with a &6book&r in an &7&lanvil&r, you can &5disenchant&r it, transferring all the enchantments to the &6book&r."
-			tasks: [{
+			subtitle: "Al combinar cualquier objeto encantado con un &6libro&r en un &7&lyunque&r, puedes &5desencantarlo&r, transfiriendo todos los encantamientos al &6libro&r."			tasks: [{
 				id: "054C08D945EBCFEB"
 				item: "minecraft:anvil"
 				type: "item"
 			}]
-			title: "Obtain an &7&lAnvil"
-			x: 0.0d
+			title: "Obtén un &7&lYunque"			x: 0.0d
 			y: 1.5d
 		}
 		{
@@ -800,8 +753,7 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Equip in the &6Quiver&r slot to access easily. Select an arrow in your inventory, then right click it into the &6Quiver&r to store arrows inside. Press the &bJ&r key to remotely open the &6Quiver&r, and use the scroll wheel to select an arrow. The selected arrow will be prioritized when shooting weapons that utilize arrows, such as bows and crossbows."
-			tasks: [{
+			subtitle: "Equipa en la ranuras &6Carcaj&r para acceder fácilmente. Seleccionar una flecha en tu inventario, luego haz clic derecho sobre ella en el &6Carcaj&r para almacenar flechas dentro. Pulsa la tecla &bJ&r para abrir remotamente el &6Carcaj&r, y usa la rueda de desplazamiento para seleccionar una flecha. La flecha seleccionada tendrá prioridad al disparar armas que utilizan flechas, como arcos y ballestas."			tasks: [{
 				id: "423E17370D147DE2"
 				item: {
 					Count: 1
@@ -816,8 +768,7 @@
 				}
 				type: "item"
 			}]
-			title: "Obtain a &6Quiver"
-			x: -4.5d
+			title: "Obtén un carcaj &6"			x: -4.5d
 			y: -0.5d
 		}
 		{
@@ -829,14 +780,12 @@
 				random_bonus: 8
 				type: "item"
 			}]
-			subtitle: "Used to teleport to a set destination by simply walking over the &dWarp Plate&r. This is especially useful for transporting mobs long distances."
-			tasks: [{
+			subtitle: "Usado para teletransportarse a un destino establecido simplemente caminando sobre la &dPlaca de Salto&r. Esto es especialmente útil para transportar criaturas largas distancias."			tasks: [{
 				id: "256DA0950C472AEE"
 				item: "waystones:warp_plate"
 				type: "item"
 			}]
-			title: "Craft a &dWarp Plate"
-			x: -6.0d
+			title: "Craftear una &dPlaca de Salto"			x: -6.0d
 			y: 3.5d
 		}
 		{
@@ -852,14 +801,12 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Can be placed underwater."
-			tasks: [{
+			subtitle: "Se puede colocar bajo el agua."			tasks: [{
 				id: "075C2767D93DDAD3"
 				item: "glow_up:glow_torch"
 				type: "item"
 			}]
-			title: "Craft a &3Glow Torch"
-			x: 0.0d
+			title: "Craftear una &3Antorcha Luminosa"			x: 0.0d
 			y: 3.5d
 		}
 		{
@@ -871,16 +818,13 @@
 				random_bonus: 5
 				type: "item"
 			}]
-			subtitle: "Light source that can be placed on any side of a block. Once placed, it's only visible while holding the &3Glow Paste&r item."
-			tasks: [{
+			subtitle: "Fuente de luz que se puede colocar en cualquier lado de un bloque. Una vez colocado, solo es visible mientras se sostiene el objeto &3Pegamento Luminoso&r."			tasks: [{
 				id: "1C31901643D8C50D"
 				item: "glow_up:glow_paste"
 				type: "item"
 			}]
-			title: "Craft &3Glow Paste"
-			x: 0.0d
+			title: "Craftear &3Pegamento Luminoso"			x: 0.0d
 			y: -0.5d
 		}
 	]
-	title: " &fCuriosities&f"
-}
+	title: "Curiosidades"}

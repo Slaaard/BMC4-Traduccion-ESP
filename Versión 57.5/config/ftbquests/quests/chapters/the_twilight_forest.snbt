@@ -15,15 +15,13 @@
 				item: "twilightforest:magic_map"
 				type: "item"
 			}]
-			subtitle: "To create a Twilight Forest portal, first make a 2x2 infinite water source. Then, place flowers on surrounding grass blocks and throw a diamond into the water."
-			tasks: [{
+			subtitle: "Para crear un Portal de Twilight Forest, primero haz una fuente de agua infinita de 2x2. Luego, coloca flores en los bloques de césped circundantes y arroja un diamante al agua."			tasks: [{
 				advancement: "twilightforest:root"
 				criterion: ""
 				id: "19F8C8263E23CE02"
 				type: "advancement"
 			}]
-			title: "Enter &2The Twilight Forest"
-			x: -1.0d
+			title: "Entrar &2El Bosque Crepuscular"			x: -1.0d
 			y: 0.5d
 		}
 		{
@@ -34,15 +32,13 @@
 				type: "xp_levels"
 				xp_levels: 25
 			}]
-			subtitle: "Found in forests. Unlocks the &eLich Tower&r."
-			tasks: [{
+			subtitle: "Encontrado en bosques. Desbloquea la &eTorre del Lich&r."			tasks: [{
 				advancement: "twilightforest:progress_naga"
 				criterion: ""
 				id: "3C1CB3BAA452081B"
 				type: "advancement"
 			}]
-			title: "Defeat the &aNaga"
-			x: 0.5d
+			title: "Derrota a los &aNaga"			x: 0.5d
 			y: 0.5d
 		}
 		{
@@ -60,16 +56,14 @@
 				}
 				type: "item"
 			}]
-			subtitle: "Found in forests. Unlocks Labyrinths and Yeti Lairs."
-			tasks: [{
+			subtitle: "Encontrado en bosques. Desbloquea laberintos y guaridas de Yeti."			tasks: [{
 				entity: "twilightforest:lich"
 				icon: "twilightforest:lich_trophy"
 				id: "1DAFCEAD51838D0F"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &eTwilight Lich"
-			x: 2.0d
+			title: "Derrota al Lic del Crepúsculo &e"			x: 2.0d
 			y: 0.5d
 		}
 		{
@@ -88,16 +82,14 @@
 					type: "item"
 				}
 			]
-			subtitle: "Found in Hollow Hills in swamps. Unlocks The Dark Forest."
-			tasks: [{
+			subtitle: "Encontrado en Vacío Hills en pantanos. Desbloquea el Bosque oscuro."			tasks: [{
 				entity: "twilightforest:hydra"
 				icon: "twilightforest:hydra_trophy"
 				id: "741025A8A97AE44E"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &2Hydra"
-			x: 5.0d
+			title: "Derrota la &2Hydra"			x: 5.0d
 			y: 0.5d
 		}
 		{
@@ -108,16 +100,14 @@
 				item: "twilightforest:charm_of_keeping_2"
 				type: "item"
 			}]
-			subtitle: "Found in Dark Towers in The Dark Forest."
-			tasks: [{
+			subtitle: "Encontrado en Torres Oscuras en el Bosque oscuro."			tasks: [{
 				entity: "twilightforest:ur_ghast"
 				icon: "twilightforest:ur_ghast_trophy"
 				id: "69B3E7A8FDEA3AF4"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &fUr-Ghast"
-			x: 5.0d
+			title: "Derrota al &fUr-Ghast"			x: 5.0d
 			y: -1.0d
 		}
 		{
@@ -128,16 +118,14 @@
 				item: "twilightforest:charm_of_keeping_3"
 				type: "item"
 			}]
-			subtitle: "Found in &fYeti Lairs &rin the &fSnowy Forest&r. Unlocks the &f&lSnow Queen&r."
-			tasks: [{
+			subtitle: "Encontrado en los &fEscondites de Yeti &ren el &fBosque Nevado&r. Desbloquea a la &f&lReina de las Nieves&r."			tasks: [{
 				entity: "twilightforest:alpha_yeti"
 				icon: "twilightforest:alpha_yeti_trophy"
 				id: "0713624C45E4A32E"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &f&lAlpha Yeti"
-			x: 3.5d
+			title: "Derrota al &f&lAlpha Yeti"			x: 3.5d
 			y: 2.0d
 		}
 		{
@@ -148,16 +136,14 @@
 				item: "minecraft:netherite_ingot"
 				type: "item"
 			}]
-			subtitle: "Found in Glaciers."
-			tasks: [{
+			subtitle: "Encontrado en Glaciares."			tasks: [{
 				entity: "twilightforest:snow_queen"
 				icon: "twilightforest:snow_queen_trophy"
 				id: "2C33ED7CC374CB4C"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &f&lSnow Queen"
-			x: 5.0d
+			title: "Derrota a la Reina de las Nieves &f&l"			x: 5.0d
 			y: 2.0d
 		}
 		{
@@ -169,16 +155,14 @@
 				item: "twilightforest:knightmetal_ingot"
 				type: "item"
 			}]
-			subtitle: "Found by opening underground Strongholds in the Dark Forest with a trophy. Unlocks the Ur-Ghast Tower."
-			tasks: [{
+			subtitle: "Encontrado al abrir las fortalezas subterráneas en el Bosque oscuro con un trofeo. Desbloquea la Torre de Ur-Ghast."			tasks: [{
 				entity: "twilightforest:knight_phantom"
 				icon: "twilightforest:knight_phantom_trophy"
 				id: "0F3F5AD6E3A7C2C9"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Slay the &8Knight Phantoms"
-			x: 3.5d
+			title: "Derrota a los &8Caballeros Fantasma"			x: 3.5d
 			y: -1.0d
 		}
 		{
@@ -197,15 +181,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "There doesn't seem to be anyone here yet. At least you can use these cool doors."
-			tasks: [{
+			subtitle: "Aún no parece haber nadie aquí. Al menos puedes usar estas puertas frías."			tasks: [{
 				advancement: "twilightforest:progression_end"
 				criterion: ""
 				id: "3FB649297849E864"
 				type: "advancement"
 			}]
-			title: "Make your way to the &f&lFinal Castle."
-			x: 8.0d
+			title: "Dirígete hacia el &f&lCastillo Final."			x: 8.0d
 			y: 0.5d
 		}
 		{
@@ -227,15 +209,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "Use something found up in the sky to break into a vault deep underground. Can burn through the spiny foliage of the Thornlands."
-			tasks: [{
+			subtitle: "Usa algo encontrado en el cielo para irrumpir en una arca profunda y subterránea. Puede quemar a través del follaje espinoso de las Tierras Espinosas."			tasks: [{
 				advancement: "twilightforest:progress_troll"
 				criterion: ""
 				id: "69F7F01A2320CCFF"
 				type: "advancement"
 			}]
-			title: "Find and use the &6Lamp of Cinders"
-			x: 6.5d
+			title: "Encuentra y usa la &6Lámpara de Cenizas"			x: 6.5d
 			y: 0.5d
 		}
 		{
@@ -265,17 +245,14 @@
 					type: "item"
 				}
 			]
-			subtitle: "Obtained by killing a Minotaur, found in swamp Labyrinths. Unlocks Hollow Hills."
-			tasks: [{
+			subtitle: "Obtenido al matar un Minotauro, encontrado en laberintos de pantano. Desbloquea Vacío Colinas."			tasks: [{
 				advancement: "twilightforest:progress_labyrinth"
 				criterion: ""
 				id: "2A33D7EA1175736C"
 				type: "advancement"
 			}]
-			title: "Eat Meef Stroganoff"
-			x: 3.5d
+			title: "Come Carne Stroganoff"			x: 3.5d
 			y: 0.5d
 		}
 	]
-	title: " &2Twilight Forest"
-}
+	title: "&2Bosque Crepuscular"}

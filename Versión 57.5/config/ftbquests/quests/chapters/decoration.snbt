@@ -24,11 +24,9 @@
 						value: "handcrafted:drawers"
 					}
 				}
-				title: "Any #handcrafted:drawers"
-				type: "item"
+				title: "Cualquiera de los cajones hechos a mano"				type: "item"
 			}]
-			title: "Craft a &dDrawer"
-			x: 2.0d
+			title: "Craftear un &dCajón"			x: 2.0d
 			y: 1.0d
 		}
 		{
@@ -47,11 +45,9 @@
 						value: "handcrafted:shelves"
 					}
 				}
-				title: "Any #handcrafted:shelves"
-				type: "item"
+				title: "Cualquiera de los estantes hechos a mano"				type: "item"
 			}]
-			title: "Craft a &dShelf"
-			x: 0.5d
+			title: "Craftear un &dEstante"			x: 0.5d
 			y: 1.0d
 		}
 		{
@@ -70,11 +66,9 @@
 						value: "handcrafted:desks"
 					}
 				}
-				title: "Any #handcrafted:desks"
-				type: "item"
+				title: "Cualquiera de los escritorios hechos a mano"				type: "item"
 			}]
-			title: "Craft a &dDesk"
-			x: -1.0d
+			title: "Craftear un &dEscritorio"			x: -1.0d
 			y: 1.0d
 		}
 		{
@@ -93,11 +87,9 @@
 						value: "handcrafted:nightstands"
 					}
 				}
-				title: "Any #handcrafted:nightstands"
-				type: "item"
+				title: "Cualquiera Mesitas de Noche Hecho a Mano"				type: "item"
 			}]
-			title: "Craft a &dNightstand"
-			x: -1.0d
+			title: "Craftear un &dTocador"			x: -1.0d
 			y: 2.5d
 		}
 		{
@@ -117,11 +109,9 @@
 						value: "handcrafted:counters"
 					}
 				}
-				title: "Any #handcrafted:counters"
-				type: "item"
+				title: "Cualquiera de los Mostradores Hecho a Mano"				type: "item"
 			}]
-			title: "Craft a &dCounter"
-			x: 0.5d
+			title: "Craftear un &dContador"			x: 0.5d
 			y: 2.5d
 		}
 		{
@@ -140,11 +130,9 @@
 						value: "handcrafted:cupboards"
 					}
 				}
-				title: "Any #handcrafted:cupboards"
-				type: "item"
+				title: "Cualquiera de las alacenas hechas a mano"				type: "item"
 			}]
-			title: "Craft a &dCupboard"
-			x: 2.0d
+			title: "Craftear un &dArmario"			x: 2.0d
 			y: 2.5d
 		}
 		{
@@ -163,11 +151,9 @@
 						value: "handcrafted:wooden_benches"
 					}
 				}
-				title: "Any #handcrafted:wooden_benches"
-				type: "item"
+				title: "Cualquiera #Hecho a Mano:bancas_de_madera"				type: "item"
 			}]
-			title: "Craft a &dWooden Bench"
-			x: 2.0d
+			title: "Craftear un &dBanco de Madera"			x: 2.0d
 			y: -1.0d
 		}
 		{
@@ -186,11 +172,9 @@
 						value: "handcrafted:chairs"
 					}
 				}
-				title: "Any #handcrafted:chairs"
-				type: "item"
+				title: "Cualquiera de las sillas hechas a mano"				type: "item"
 			}]
-			title: "Craft a &dChair"
-			x: 2.0d
+			title: "Craftear una &dSilla"			x: 2.0d
 			y: -2.5d
 		}
 		{
@@ -209,11 +193,9 @@
 						value: "handcrafted:fancy_beds"
 					}
 				}
-				title: "Any #handcrafted:fancy_beds"
-				type: "item"
+				title: "Cualquiera Hecho a Mano:fancy_beds"				type: "item"
 			}]
-			title: "Craft a &dFancy Bed"
-			x: -1.0d
+			title: "Craftear una &dCama Elegante"			x: -1.0d
 			y: -2.5d
 		}
 		{
@@ -232,11 +214,9 @@
 						value: "handcrafted:couches"
 					}
 				}
-				title: "Any #handcrafted:couches"
-				type: "item"
+				title: "Cualquiera de los Sofás Hecho a Mano"				type: "item"
 			}]
-			title: "Craft a &dCouch"
-			x: 0.5d
+			title: "Craftear un &dSofá"			x: 0.5d
 			y: -2.5d
 		}
 		{
@@ -255,11 +235,9 @@
 						value: "handcrafted:tables"
 					}
 				}
-				title: "Any #handcrafted:tables"
-				type: "item"
+				title: "Cualquiera de las Tablas Hecho a Mano"				type: "item"
 			}]
-			title: "Craft a &dTable"
-			x: 0.5d
+			title: "Craftear una &dMesa"			x: 0.5d
 			y: -1.0d
 		}
 		{
@@ -278,11 +256,9 @@
 						value: "handcrafted:side_tables"
 					}
 				}
-				title: "Any #handcrafted:side_tables"
-				type: "item"
+				title: "Cualquiera de las mesas auxiliares hechas a mano"				type: "item"
 			}]
-			title: "Craft a &dSide Table"
-			x: -1.0d
+			title: "Craftear una &dMesa Auxiliar"			x: -1.0d
 			y: -1.0d
 		}
 		{
@@ -292,8 +268,7 @@
 				item: "handcrafted:hammer"
 				type: "item"
 			}]
-			subtitle: "Can be used on furniture from the Handcrafted mod to change the furniture color."
-			tasks: [{
+			subtitle: "Can puede usarse en muebles del mod Hecho a Mano para cambiar el color de los muebles."			tasks: [{
 				id: "222D9A8E4EC840FB"
 				item: {
 					Count: 1
@@ -302,11 +277,9 @@
 						value: "handcrafted:cushions"
 					}
 				}
-				title: "Any #handcrafted:cushions"
-				type: "item"
+				title: "Cualquiera de los Cojines Hecho a Mano"				type: "item"
 			}]
-			title: "Craft a &cCushion"
-			x: -2.5d
+			title: "Craftea un &cCushion"			x: -2.5d
 			y: -2.5d
 		}
 		{
@@ -324,8 +297,7 @@
 					type: "item"
 				}
 			]
-			subtitle: "To create a &fHammock&r, first craft the &fHammock Cloth&r. Then, craft two &2Rope and Nails&r. With a gap of four blocks, place the two &2Rope and Nails&r, with the &fHammock Cloth&r connected."
-			tasks: [{
+			subtitle: "Para craftear un &fHammock&r, primero craftea la &fHammock Cloth&r. Luego, craftea dos &2Cuerda y Clavos&r. Con una brecha de cuatro 〖 bloques〗, coloca los dos &2Cuerda y Clavos&r, con la &fHammock Cloth&r conectada."			tasks: [{
 				id: "075412A42ACCE8A5"
 				item: {
 					Count: 1
@@ -334,13 +306,10 @@
 						value: "comforts:hammocks"
 					}
 				}
-				title: "Any #comforts:hammocks"
-				type: "item"
+				title: "Cualquiera de las comodidades: hamacas"				type: "item"
 			}]
-			title: "Craft a &f&lHammock"
-			x: 3.5d
+			title: "Craftear una hamaca &f&l"			x: 3.5d
 			y: -2.5d
 		}
 	]
-	title: " Decoration"
-}
+	title: "Decoración"}

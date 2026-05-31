@@ -18,16 +18,13 @@
 			}]
 			shape: "pentagon"
 			size: 2.0d
-			subtitle: "&5&lThe End&r is accessed the same way as normal Minecraft - by finding the Stronghold via &1Eyes of Ender&r"
-			tasks: [{
+			subtitle: "&5&lEl End&r se accede de la misma manera que Minecraft normal - encontrando el Bastión mediante &1Ojos dEl End&r"			tasks: [{
 				dimension: "minecraft:the_end"
 				icon: "minecraft:end_portal_frame"
 				id: "444AC080F3243355"
-				title: "Enter The End Dimension"
-				type: "dimension"
+				title: "Entrar a la Dimensión del Fin"				type: "dimension"
 			}]
-			title: "Enter &5&lThe End"
-			x: 2.0d
+			title: "Entrar &5&lEl End"			x: 2.0d
 			y: 2.0d
 		}
 		{
@@ -41,17 +38,14 @@
 				table_id: 327386274853989853L
 				type: "random"
 			}]
-			subtitle: "Respawned the same way as normal - placing an end crystal on all four cardinal directions on the exit portal's outer rim."
-			tasks: [{
+			subtitle: "Reapareció de la misma manera que normal: colocando un Cristal dEl End en las cuatro direcciones cardinales del borde exterior del Portal de Salida."			tasks: [{
 				entity: "minecraft:ender_dragon"
 				icon: "minecraft:dragon_head"
 				id: "412B85684482E982"
-				title: "Kill The Ender Dragon"
-				type: "kill"
+				title: "Derrota al Enderdragón"				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &8&lEnder Dragon"
-			x: 0.0d
+			title: "Derrota al &8&lEnderdragón"			x: 0.0d
 			y: 2.0d
 		}
 		{
@@ -67,14 +61,12 @@
 				table_id: 327386274853989853L
 				type: "choice"
 			}]
-			subtitle: "Put a &c&lCrimson Mosquito Larva&r into a &5Capsid&r, then throw the Mysterious Larva into the void of &5&lThe End&r."
-			tasks: [{
+			subtitle: "Coloca una &c&lLarva de Mosquito Carmesí&r en una &5Cápside&r, luego lanza la Larva Misteriosa al vacío de"			tasks: [{
 				id: "3520F59E9119D54F"
 				item: "alexsmobs:void_worm_eye"
 				type: "item"
 			}]
-			title: "Summon and Defeat the &9Void Worm"
-			x: 2.0d
+			title: "Invoca y Derrota al &9Gusano Abisal"			x: 2.0d
 			y: -1.5d
 		}
 		{
@@ -87,16 +79,14 @@
 				random_bonus: 3
 				type: "item"
 			}]
-			subtitle: "Found in the &8&lRuined Citadel&r, which can be located using an &5Eye of the Void"
-			tasks: [{
+			subtitle: "Encontrado en la &8&lCiudadela en Ruinas&r, la cual puede ser localizada usando un &5Ojo del Vacío"			tasks: [{
 				entity: "cataclysm:ender_golem"
 				icon: "cataclysm:void_core"
 				id: "02B05099ED164F8C"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &dEnder Golem"
-			x: 4.0d
+			title: "Derrota al &dGólem de Ender"			x: 4.0d
 			y: 2.0d
 		}
 		{
@@ -109,16 +99,14 @@
 				random_bonus: 4
 				type: "item"
 			}]
-			subtitle: "Found at the bottom of the &8&lRuined Citadel"
-			tasks: [{
+			subtitle: "Encontrado en el abajo de la &8&lCiudadela en Ruinas"			tasks: [{
 				entity: "cataclysm:ender_guardian"
 				icon: "cataclysm:gauntlet_of_guard"
 				id: "214C6BC2D73A0DC5"
 				type: "kill"
 				value: 1L
 			}]
-			title: "Defeat the &3Ender Guardian"
-			x: 6.0d
+			title: "Derrota al &3Guardián Ender"			x: 6.0d
 			y: 2.0d
 		}
 		{
@@ -136,16 +124,13 @@
 					type: "item"
 				}
 			]
-			subtitle: "Can only be damaged using explosions. Place &cTNT&r inside the slots around the &0&lobsidian&r pillars&r, or use the cannons near the boss with &cTNT&r in your main hand."
-			tasks: [{
+			subtitle: "Solo puede ser dañado usando explosiones. Coloca &cDinamita&r dentro de las ranuras alrededor de los &0&lobsidiana&r pilares&r, o usa los cañones cerca del jefe con &cDinamita&r en tu mano principal."			tasks: [{
 				id: "1EE956382FE6CB90"
 				item: "stalwart_dungeons:void_crystal"
 				type: "item"
 			}]
-			title: "Obtain a &3Void Crystal&r by defeating &dThe Shelterer"
-			x: 2.0d
+			title: "Obtén un &3Cristal Abisal&r al derrotar a &dEl Shelterer"			x: 2.0d
 			y: 0.0d
 		}
 	]
-	title: " &5&lThe End"
-}
+	title: "&5&lEl End"}
